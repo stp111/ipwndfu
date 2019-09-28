@@ -72,7 +72,8 @@ Write-up for alloc8 exploit can be found here:
 [alloc8 remote-readme](https://github.com/axi0mX/alloc8)
 
    or 
-[alloc8 local-readme](alloc8_readme.md)   
+   
+[alloc8 local-readme](http://github.com/stp111/ipwndfu/alloc8_readme.md)   
 
 ## iBSS
 
